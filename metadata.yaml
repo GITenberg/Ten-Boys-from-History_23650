@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '3311'
     url: http://www.gutenberg.org/2009/agents/3311
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23650#Ten-Boys-from-History
 gutenberg_bookshelf: Children's Biography
 gutenberg_issued: '2007-11-28'
 gutenberg_type: Text
