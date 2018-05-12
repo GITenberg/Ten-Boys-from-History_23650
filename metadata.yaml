@@ -1,0 +1,38 @@
+_repo: Ten-Boys-from-History_23650
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Williams, George Alfred
+    birthdate: 1875
+    deathdate: 1932
+    gutenberg_agent_id: '4569'
+    url: http://www.gutenberg.org/2009/agents/4569
+covers:
+- cover_type: archival
+  image_path: 23650-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sweetser, Kate Dickinson
+    deathdate: 1939
+    gutenberg_agent_id: '3311'
+    url: http://www.gutenberg.org/2009/agents/3311
+description: ''
+gutenberg_bookshelf: Children's Biography
+gutenberg_issued: '2007-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23650'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Biography'
+- !lcc 'CT'
+tableOfContents: 'Stephen and Nicholas: boy crusaders -- Peter of Haarlem: the boy
+  who saved his country -- David: the shepherd boy -- Louis Seventeenth: the boy king
+  who never reigned -- Edward the Black Prince: the boy warrior -- Tyrant Tad: the
+  boy in the White House -- Hugh of Lincoln: the boy chorister -- David Farragut:
+  the boy midshipman -- Mozart: the boy musician.'
+title: Ten Boys from History
+url: http://www.gutenberg.org/ebooks/23650
